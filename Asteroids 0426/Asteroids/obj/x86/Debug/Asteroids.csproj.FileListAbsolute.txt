@@ -1,0 +1,164 @@
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\Content\playerShip.xnb
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\Asteroids.exe
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\Asteroids.pdb
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\obj\x86\Debug\Asteroids.exe
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\obj\x86\Debug\Asteroids.pdb
+C:\Users\Liam\Documents\Visual Studio 2017\Projects\Asteroids\Asteroids\bin\Windows\x86\Debug\Content\laser.xnb
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\Content\laser.xnb
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\Content\playerShip.xnb
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\Asteroids.exe
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\Asteroids.pdb
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csprojResolveAssemblyReference.cache
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\obj\x86\Debug\Asteroids.exe
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\obj\x86\Debug\Asteroids.pdb
+C:\Users\duggan.liam\Downloads\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\Content\Asteroid.xnb
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\Content\Asteroid.xnb
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\Content\laser.xnb
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\Content\playerShip.xnb
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\Asteroids.exe
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\Asteroids.pdb
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csprojResolveAssemblyReference.cache
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\obj\x86\Debug\Asteroids.exe
+C:\Users\duggan.liam\Downloads\Asteroids 0415(1)\Asteroids 0415\Asteroids\Asteroids\obj\x86\Debug\Asteroids.pdb
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\Content\Asteroid.xnb
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\Content\laser.xnb
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\Content\playerShip.xnb
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\Asteroids.exe
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\Asteroids.pdb
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csprojResolveAssemblyReference.cache
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\obj\x86\Debug\Asteroids.exe
+C:\Users\duggan.liam\Desktop\LBS\År 2\Programmering\Asteroids\Asteroids 0424\Asteroids\Asteroids\obj\x86\Debug\Asteroids.pdb
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\Content\Asteroid.xnb
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\Content\laser.xnb
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\Content\playerShip.xnb
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\Asteroids.exe
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\Asteroids.pdb
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\obj\x86\Debug\Asteroids.csproj.CopyComplete
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\obj\x86\Debug\Asteroids.exe
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\obj\x86\Debug\Asteroids.pdb
+C:\Users\Liam\Downloads\Asteroids 0424\Asteroids 0424\Asteroids\Asteroids\bin\Windows\x86\Debug\Content\Debug.xnb
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\Content\Asteroid.xnb
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\Content\Debug.xnb
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\Content\laser.xnb
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\Content\playerShip.xnb
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\Asteroids.exe
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\Asteroids.pdb
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\obj\x86\Debug\Asteroids.csprojResolveAssemblyReference.cache
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\obj\x86\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\obj\x86\Debug\Asteroids.exe
+C:\Users\duggan.liam\Downloads\Asteroids 0426\Asteroids 0426\Asteroids\obj\x86\Debug\Asteroids.pdb
